@@ -37,8 +37,8 @@ const int flashPin    = 4;
 #define HREF_GPIO_NUM     23
 #define PCLK_GPIO_NUM     22
 
-const char* ssid =     "NETGEAR71";
-const char* password = "manicprairie768";
+const char* ssid =     "****";
+const char* password = "****";
 
 void startCameraServer();
 void setDetectionBool(bool);
